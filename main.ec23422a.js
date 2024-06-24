@@ -31121,7 +31121,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   api: () => (/* binding */ api)
 /* harmony export */ });
-const BASE_URL = "http://185.244.172.108:8081/v1/outlay-rows/entity/128439/row";
+const BASE_URL = "https://185.244.172.108:8081/v1/outlay-rows/entity/128439/row";
 function api(input, init) {
     return fetch(BASE_URL + input, init);
 }
@@ -37685,4 +37685,4 @@ root.render((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_redux__
 
 /******/ })()
 ;
-//# sourceMappingURL=main.e6b58a74.js.map
+//# sourceMappingURL=main.ec23422a.js.map
